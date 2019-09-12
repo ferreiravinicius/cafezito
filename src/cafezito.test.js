@@ -1,4 +1,4 @@
-const validator = require('./validator');
+const validator = require('./cafezito');
 
 describe(`sanitize`, () => {
   it(`should remove all non-numeric characters`, () => {

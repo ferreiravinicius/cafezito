@@ -1,14 +1,14 @@
 {
-  "name": "validator",
+  "name": "cafezito",
   "version": "0.1.0",
-  "description": "simple util library focused on brazilian context",
-  "main": "index.js",
+  "description": "Mais uma biblioteca utilitária focada na simplicidade (validação cpf, cnpj e etc)",
+  "main": "src/cafezito.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ferreiravinicius/not-created-yet.git"
+    "url": "git+https://github.com/ferreiravinicius/cafezito.git"
   },
   "keywords": [
     "util",
@@ -20,9 +20,9 @@
   "author": "Vinícius Ferreira <vinidotnet@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ferreiravinicius/not-created-yet/issues"
+    "url": "https://github.com/ferreiravinicius/cafezito/issues"
   },
-  "homepage": "https://github.com/ferreiravinicius/not-created-yet#readme",
+  "homepage": "https://github.com/ferreiravinicius/cafezito#readme",
   "devDependencies": {
     "eslint": "^6.3.0",
     "eslint-plugin-jest": "^22.17.0",
